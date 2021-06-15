@@ -6,8 +6,8 @@ First, we selected volumes of approximately 1000–2000 x 1000 x 1000 pixels in 
 The original draft of the paper is located here:
 https://www.biorxiv.org/content/10.1101/2020.11.13.382457v1
 
-FIB-SEM resolution was aveluated using ribosomes for each cell data set in the paper. In order to accelerate the data download and processing, we cropped a small subset (1Gb-3Gb) of the EM data for each fdata set. The Pyton notebooks work with these cropped subsets.
-The Python notebooks for all sell data sets can be downloaded directly from this respository.
+FIB-SEM resolution was evaluated using ribosomes for each cell data set in the paper. In order to accelerate the data download and processing, we cropped a small subset (1Gb-3Gb) of the EM data for each data set. The Pyton notebooks work with these cropped subsets.
+The Python notebooks for all sell data sets can be downloaded directly from this repository.
 The cropped EM data subsets are too large to be held at GitHub, they can be downloaded from DropBox:
 
 HeLa2: https://www.dropbox.com/s/yx3qm1bu5inbh2b/HeLa_Cell2_subset.tif.zip?dl=0
